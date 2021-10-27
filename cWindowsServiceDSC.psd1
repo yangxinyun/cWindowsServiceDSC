@@ -3,7 +3,7 @@
     DscResourcesToExport = @('WindowsServiceDSC')
 
     # Version number of this module.
-    ModuleVersion        = '0.0.1'
+    ModuleVersion        = '0.0.2'
 
     # ID used to uniquely identify this module
     GUID                 = 'e74c78aa-62ec-41ab-992b-9928d97dd530'
